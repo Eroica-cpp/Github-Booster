@@ -1,6 +1,6 @@
 Github Booster
 ==============
-[link](https://eroicacpp.com/2017/05/20/become-a-github-master-in-seconds/)
+[Become A Github Master In Seconds !](https://eroicacpp.com/2017/05/20/become-a-github-master-in-seconds/)
 
 Usage
 ------
@@ -25,8 +25,8 @@ git push origin master
 
 Example
 -------
-Before
+#### Before
 ![](https://eroicacpp.com/content/images/2017/05/2017-05-20-13-32-29----.png)
 
-After
+#### After
 ![](https://eroicacpp.com/content/images/2017/05/2017-05-20-13-55-25----.png)
